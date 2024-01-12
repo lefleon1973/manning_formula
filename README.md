@@ -1,4 +1,5 @@
-##  Manning user-defined formulae for Excel
+## Uniform Flow hydraulics
+#  Manning user-defined formulae for Excel
 You have to permit macros
 _yunicirc_(Q,n,J,D)
 and
